@@ -1,4 +1,4 @@
 # ML
-Оригинал https://github.com/IamVOC/MLBasics/tree/main 
-/n Основы ML https://github.com/Yorko/mlcourse.ai/tree/main/jupyter_russian
+Оригинал https://github.com/IamVOC/MLBasics/tree/main  
+Основы ML https://github.com/Yorko/mlcourse.ai/tree/main/jupyter_russian  
 Сайт https://pseudocoder.ru/ml-labs
